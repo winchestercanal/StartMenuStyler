@@ -12,7 +12,7 @@ O objetivo deste projeto é facilitar o acesso aos estilos originalmente criados
 ## 📺 Tutorial em Vídeo
 Se você tiver dúvidas sobre como aplicar esses estilos ou quiser ver o resultado final, confira o guia passo a passo:
 
-👉 [**Assista ao Tutorial no YouTube**](https://www.youtube.com/watch?v=VSYyZpypEkI)
+👉 [**Assista ao Tutorial no YouTube**](https://youtu.be/YKl_bChjhO8)
 
 ---
 
