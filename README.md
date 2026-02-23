@@ -38,19 +38,18 @@ Para que os estilos funcionem, você deve ter instalado:
 
 ## 🚀 Como Aplicar
 1. Abra o **Windhawk** e selecione o mod *Windows 11 Start Menu Styler*.
-2. Vá até a aba **Settings** (ou Advanced, dependendo da versão).
+2. Vá até a aba **Avançado**.
 3. Copie o conteúdo do arquivo `.json` escolhido aqui no GitHub.
 4. Cole no campo de configuração do mod e clique em **Save**.
+5. Vá até a aba Configurações e marque a opção **Disable the new start menu layout**
+6. Salve as configurações 
 
 ---
 
 ## ⭐ Apoie o Projeto
-Se este repositório foi útil, por favor, **deixe uma estrela (Star)**! Isso ajuda a manter o projeto relevante.
+Se este repositório foi útil, por favor, **deixe uma estrela (⭐)**! Isso ajuda a manter o projeto relevante.
 
 Aproveite para conferir meus outros repositórios de customização e ferramentas:
-* 🪟 [**Komorebi Configs**](https://github.com/winchestercanal/komorebi-configs) - Tiling Window Manager para Windows.
 * 📊 [**Yasb**](https://github.com/winchestercanal/Yasb) - Uma barra de status altamente customizável.
+* 🪟 [**Komorebi Configs**](https://github.com/winchestercanal/komorebi-configs) - Tiling Window Manager para Windows.
 * 💾 [**Driver Backup**](https://github.com/winchestercanal/driverbackup) - Ferramenta prática para backup de drivers.
-
----
-*Mantido por [winchestercanal](https://github.com/winchestercanal)*
