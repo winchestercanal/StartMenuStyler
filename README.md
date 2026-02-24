@@ -20,19 +20,41 @@ Se você tiver dúvidas sobre como aplicar esses estilos ou quiser ver o resulta
 
 Para que os estilos funcionem, você deve ter instalado:
 
-1. **Windhawk:** Ferramenta base para as modificações.
-   * [Download Windhawk](https://windhawk.net/)
-2. **Mod "Windows 11 Start Menu Styler":** O motor que processa os estilos.
-   * [Página do Mod](https://windhawk.net/mods/windows-11-start-menu-styler)
+1. **Windhawk**
+   * https://windhawk.net/
+
+2. **Mod "Windows 11 Start Menu Styler"**
+   * https://windhawk.net/mods/windows-11-start-menu-styler
 
 ---
 
-## 📦 Estilos Disponíveis
+# 📦 Estilos Disponíveis
 
-| Layout | Descrição | Link do Código |
-| :--- | :--- | :--- |
-| **Modern Start Menu** | Layout moderno e elegante (mostrado no vídeo). | [Visualizar Arquivo](https://github.com/winchestercanal/StartMenuStyler/blob/main/Modern%20Start%20Menu.json) |
-| **Modern (Sem Recomendados)** | Variação que remove a coluna de "itens recomendados". | [Visualizar Arquivo](https://github.com/winchestercanal/StartMenuStyler/blob/main/Modern%20Start%20Menu%20(Sem%20recomendados).json) |
+## 🟦 Modern Start Menu
+Layout moderno e elegante (mostrado no vídeo).
+
+🔗 **Código:**  
+https://github.com/winchestercanal/StartMenuStyler/blob/main/Modern%20Start%20Menu.json
+
+### 🖼️ Preview
+
+<p align="left">
+  <img src="https://www.vinstartheme.com/wp-content/uploads/2025/01/Dark-Modern-Start-Menu-for-Windows-11.webp" width="800">
+</p>
+
+---
+
+## 🟦 Modern Start Menu (Sem Recomendados)
+Variação que remove completamente a coluna de "itens recomendados".
+
+🔗 **Código:**  
+https://github.com/winchestercanal/StartMenuStyler/blob/main/Modern%20Start%20Menu%20(Sem%20recomendados).json
+
+### 🖼️ Preview
+
+<p align="left">
+  <img src="https://www.vinstartheme.com/wp-content/uploads/2025/01/Modern-Start-Menu-Recommended.webp" width="800">
+</p>
 
 ---
 
@@ -41,15 +63,21 @@ Para que os estilos funcionem, você deve ter instalado:
 2. Vá até a aba **Avançado**.
 3. Copie o conteúdo do arquivo `.json` escolhido aqui no GitHub.
 4. Cole no campo de configuração do mod e clique em **Save**.
-5. Vá até a aba Configurações e marque a opção **Disable the new start menu layout**
-6. Salve as configurações 
+5. Vá até a aba **Configurações** e marque a opção **Disable the new start menu layout**.
+6. Salve as configurações.
 
 ---
 
 ## ⭐ Apoie o Projeto
 Se este repositório foi útil, por favor, **deixe uma estrela (⭐)**! Isso ajuda a manter o projeto relevante.
 
-Aproveite para conferir meus outros repositórios de customização e ferramentas:
-* 📊 [**Yasb**](https://github.com/winchestercanal/Yasb) - Uma barra de status altamente customizável.
-* 🪟 [**Komorebi Configs**](https://github.com/winchestercanal/komorebi-configs) - Tiling Window Manager para Windows.
-* 💾 [**Driver Backup**](https://github.com/winchestercanal/driverbackup) - Ferramenta prática para backup de drivers.
+Aproveite para conferir meus outros repositórios:
+
+* 📶 Yasb - Status Bar para Windows
+  https://github.com/winchestercanal/Yasb  
+
+* 🪟 Komorebi Configs  - Auto Tiling para Windows
+  https://github.com/winchestercanal/komorebi-configs  
+
+* 💾 Driver Backup  - Script para automação de backup e restauração de drivers.
+  https://github.com/winchestercanal/driverbackup  
